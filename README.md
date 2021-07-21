@@ -1,0 +1,2 @@
+# ExampleDiscordJavaBot
+DiscordのJavaのBotのサンプルです。
